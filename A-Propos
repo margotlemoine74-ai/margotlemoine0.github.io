@@ -1,1 +1,32 @@
 A Propos de moi 
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>À propos - Mon Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>À propos</h1>
+  <nav>
+    <a href="index.html">Accueil</a>
+    <a href="a-propos.html">À propos</a>
+    <a href="parcours.html">Parcours</a>
+    <a href="projets.html">Projets</a>
+    <a href="competences.html">Compétences</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<main>
+  <section>
+    <h2>Qui je suis</h2>
+    <p>Je m'appelle [Ton nom], je suis actuellement en Terminale et je souhaite [objectif Parcoursup].</p>
+    <p>J'aime apprendre, créer et relever des défis. Ce portfolio présente mon parcours et mes projets.</p>
+  </section>
+</main>
+
+</body>
+</html>
